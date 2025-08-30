@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  input.no-arrows::-webkit-inner-spin-button,
+  input.no-arrows::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .btn-primary__with-icon {
+    @apply px-4 py-1.5 rounded inline-flex items-center gap-x-2 text-white bg-primary hover:bg-primary-light;
+  }
+  .btn-primary {
+    @apply px-4 py-1.5 rounded text-white bg-primary hover:bg-primary-light;
+  }
+  .text-field {
+    @apply w-full px-4 py-1.5 rounded-md disabled:text-gray-500 disabled:bg-gray-100 text-gray-700 border-0 ring-1 ring-gray-300 outline-primary;
+  }
+  .textarea-field {
+    @apply w-full px-4 py-1.5 rounded-md disabled:text-gray-500 disabled:bg-gray-100 text-gray-700 border-0 ring-1 ring-gray-300 outline-primary resize-none;
+  }
+  .number-field {
+    @apply w-full px-4 py-1.5 rounded-md disabled:text-gray-500 disabled:bg-gray-100 text-gray-700 border-0 ring-1 ring-gray-300 outline-primary;
+  }
+
+  .loader {
+    width: 50px;
+    padding: 8px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+
+    --_m: conic-gradient(#0000 10%, #000), linear-gradient(#000 0 0) content-box;
+    -webkit-mask: var(--_m);
+    mask: var(--_m);
+    -webkit-mask-composite: source-out;
+    mask-composite: subtract;
+    animation: l3 1s infinite linear;
+    @apply bg-primary;
+  }
+
+  @keyframes l3 {
+    to {
+      transform: rotate(1turn);
+    }
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

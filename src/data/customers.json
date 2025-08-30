@@ -1,0 +1,146 @@
+[
+  {
+    "firstName": "Ahmed",
+    "lastName": "Ali",
+    "email": "ahmed.ali@example.com",
+    "phoneNo": "0501234567",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "E8&x7@1Fq"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Khalid",
+    "email": "fatima.khalid@example.com",
+    "phoneNo": "0552345678",
+    "nationality": "Egyptian",
+    "country": "United Arab Emirates",
+    "password": "T2!b4@7Sx"
+  },
+  {
+    "firstName": "Yousef",
+    "lastName": "Ahmad",
+    "email": "yousef.ahmad@example.com",
+    "phoneNo": "0563456789",
+    "nationality": "Lebanese",
+    "country": "United Arab Emirates",
+    "password": "M6&w5@3Sp"
+  },
+  {
+    "firstName": "Layla",
+    "lastName": "Mohammed",
+    "email": "layla.mohammed@example.com",
+    "phoneNo": "0504567890",
+    "nationality": "Indian",
+    "country": "United Arab Emirates",
+    "password": "V9@n2&4Qr"
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Abdullah",
+    "email": "omar.abdullah@example.com",
+    "phoneNo": "0505678901",
+    "nationality": "Jordanian",
+    "country": "United Arab Emirates",
+    "password": "L3!s7@2Rp"
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Hamad",
+    "email": "aisha.hamad@example.com",
+    "phoneNo": "0506789012",
+    "nationality": "British",
+    "country": "United Arab Emirates",
+    "password": "N8@m6&3Su"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Saeed",
+    "email": "ali.saeed@example.com",
+    "phoneNo": "0507890123",
+    "nationality": "Filipino",
+    "country": "United Arab Emirates",
+    "password": "C1@y3&9Fw"
+  },
+  {
+    "firstName": "Noor",
+    "lastName": "Khalifa",
+    "email": "noor.khalifa@example.com",
+    "phoneNo": "0508901234",
+    "nationality": "Pakistani",
+    "country": "United Arab Emirates",
+    "password": "R7!m5@8Dv"
+  },
+  {
+    "firstName": "Zayed",
+    "lastName": "Sultan",
+    "email": "zayed.sultan@example.com",
+    "phoneNo": "0509012345",
+    "nationality": "American",
+    "country": "United Arab Emirates",
+    "password": "K4@w8&6Ht"
+  },
+  {
+    "firstName": "Mariam",
+    "lastName": "Nasser",
+    "email": "mariam.nasser@example.com",
+    "phoneNo": "0501123456",
+    "nationality": "Syrian",
+    "country": "United Arab Emirates",
+    "password": "X5!r9@2Yq"
+  },
+  {
+    "firstName": "Mariam",
+    "lastName": "Nasser",
+    "email": "mariam.nasser@example.com",
+    "phoneNo": "0501123456",
+    "nationality": "Syrian",
+    "country": "United Arab Emirates",
+    "password": "X5!r9@2Yq"
+  },
+  {
+    "firstName": "Mohammed",
+    "lastName": "Ahmed",
+    "email": "mohammed.ahmed@example.com",
+    "phoneNo": "0555678901",
+    "nationality": "Indian",
+    "country": "United Arab Emirates",
+    "password": "U9&x4@3Gp"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Khaled",
+    "email": "sara.khaled@example.com",
+    "phoneNo": "0566789012",
+    "nationality": "Jordanian",
+    "country": "United Arab Emirates",
+    "password": "P3!v8@5Zr"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Khan",
+    "email": "ali.khan@example.com",
+    "phoneNo": "0507890123",
+    "nationality": "Pakistani",
+    "country": "United Arab Emirates",
+    "password": "B2@d9&6Mw"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Saleh",
+    "email": "sofia.saleh@example.com",
+    "phoneNo": "0568901234",
+    "nationality": "Lebanese",
+    "country": "United Arab Emirates",
+    "password": "V7!q5@4Js"
+  },
+  {
+    "firstName": "Hassan",
+    "lastName": "Abed",
+    "email": "hassan.abed@example.com",
+    "phoneNo": "0509012345",
+    "nationality": "Egyptian",
+    "country": "United Arab Emirates",
+    "password": "K6&m3@1Lx"
+  }
+]

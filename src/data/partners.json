@@ -1,0 +1,302 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "businessName": "ABC Trading",
+    "phoneNo": "+971501234567",
+    "email": "johndoe@example.com",
+    "nationality": "American",
+    "country": "United Arab Emirates",
+    "password": "securePassword123"
+  },
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "businessName": "XYZ Corporation",
+    "phoneNo": "+971502345678",
+    "email": "alice.smith@example.com",
+    "nationality": "British",
+    "country": "United Arab Emirates",
+    "password": "strongPassword456"
+  },
+  {
+    "firstName": "Mohammed",
+    "lastName": "Al-Farsi",
+    "businessName": "Al-Farsi Enterprises",
+    "phoneNo": "+971503456789",
+    "email": "mohammed@alfarsi.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "password789"
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "businessName": "Johnson & Sons",
+    "phoneNo": "+971504567890",
+    "email": "emma.johnson@example.com",
+    "nationality": "Canadian",
+    "country": "United Arab Emirates",
+    "password": "123456789"
+  },
+  {
+    "firstName": "Ahmed",
+    "lastName": "Khan",
+    "businessName": "Khan Enterprises",
+    "phoneNo": "+971505678901",
+    "email": "ahmed.khan@example.com",
+    "nationality": "Pakistani",
+    "country": "United Arab Emirates",
+    "password": "password1234"
+  },
+  {
+    "firstName": "Lina",
+    "lastName": "Garcia",
+    "businessName": "Garcia Solutions",
+    "phoneNo": "+971506789012",
+    "email": "lina.garcia@example.com",
+    "nationality": "Spanish",
+    "country": "United Arab Emirates",
+    "password": "securePassword5678"
+  },
+  {
+    "firstName": "Youssef",
+    "lastName": "El-Adawy",
+    "businessName": "El-Adawy Group",
+    "phoneNo": "+971507890123",
+    "email": "youssef@eladawygroup.com",
+    "nationality": "Egyptian",
+    "country": "United Arab Emirates",
+    "password": "pass123456"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Brown",
+    "businessName": "Brown Enterprises",
+    "phoneNo": "+971508901234",
+    "email": "sophia.brown@example.com",
+    "nationality": "American",
+    "country": "United Arab Emirates",
+    "password": "strongPass7890"
+  },
+  {
+    "firstName": "Ali",
+    "lastName": "Choi",
+    "businessName": "Choi Corporation",
+    "phoneNo": "+971509012345",
+    "email": "ali.choi@example.com",
+    "nationality": "Korean",
+    "country": "United Arab Emirates",
+    "password": "securePass2345"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Martinez",
+    "businessName": "Martinez Solutions",
+    "phoneNo": "+971509876543",
+    "email": "maria.martinez@example.com",
+    "nationality": "Mexican",
+    "country": "United Arab Emirates",
+    "password": "pass678901"
+  },
+  {
+    "firstName": "Hassan",
+    "lastName": "Ali",
+    "businessName": "Ali Enterprises",
+    "phoneNo": "+971508765432",
+    "email": "hassan.ali@example.com",
+    "nationality": "Indian",
+    "country": "United Arab Emirates",
+    "password": "strongPass234"
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Saeed",
+    "businessName": "Saeed Trading",
+    "phoneNo": "+971507654321",
+    "email": "aisha.saeed@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "pass890123"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "O'Connor",
+    "businessName": "O'Connor Group",
+    "phoneNo": "+971506543210",
+    "email": "liam.oconnor@example.com",
+    "nationality": "Irish",
+    "country": "United Arab Emirates",
+    "password": "password345678"
+  },
+  {
+    "firstName": "Leila",
+    "lastName": "Abdullah",
+    "businessName": "Abdullah Enterprises",
+    "phoneNo": "+971505432109",
+    "email": "leila.abdullah@example.com",
+    "nationality": "Jordanian",
+    "country": "United Arab Emirates",
+    "password": "strongPassword901"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Youssef",
+    "businessName": "Youssef Corporation",
+    "phoneNo": "+971504321098",
+    "email": "fatima.youssef@example.com",
+    "nationality": "Lebanese",
+    "country": "United Arab Emirates",
+    "password": "securePass567"
+  },
+  {
+    "firstName": "Omar",
+    "lastName": "Abdel-Rahman",
+    "businessName": "Abdel-Rahman Group",
+    "phoneNo": "+971503210987",
+    "email": "omar.abdelrahman@example.com",
+    "nationality": "Egyptian",
+    "country": "United Arab Emirates",
+    "password": "password890"
+  },
+  {
+    "firstName": "Sophie",
+    "lastName": "Dupont",
+    "businessName": "Dupont Solutions",
+    "phoneNo": "+971502109876",
+    "email": "sophie.dupont@example.com",
+    "nationality": "French",
+    "country": "United Arab Emirates",
+    "password": "strongPassword234"
+  },
+  {
+    "firstName": "Ahmed",
+    "lastName": "Salem",
+    "businessName": "Salem Trading",
+    "phoneNo": "+971501098765",
+    "email": "ahmed.salem@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "pass567890"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Ahmed",
+    "businessName": "Ahmed Enterprises",
+    "phoneNo": "+971509876543",
+    "email": "sara.ahmed@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "password234567"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Mueller",
+    "businessName": "Mueller Group",
+    "phoneNo": "+971508765432",
+    "email": "max.mueller@example.com",
+    "nationality": "German",
+    "country": "United Arab Emirates",
+    "password": "strongPass890"
+  },
+  {
+    "firstName": "Nadia",
+    "lastName": "Said",
+    "businessName": "Said Corporation",
+    "phoneNo": "+971507654321",
+    "email": "nadia.said@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "pass123456"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Wong",
+    "businessName": "Wong Enterprises",
+    "phoneNo": "+971506543210",
+    "email": "daniel.wong@example.com",
+    "nationality": "Chinese",
+    "country": "United Arab Emirates",
+    "password": "securePass789"
+  },
+  {
+    "firstName": "Zara",
+    "lastName": "Khalid",
+    "businessName": "Khalid Trading",
+    "phoneNo": "+971505432109",
+    "email": "zara.khalid@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "password345"
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Ivanova",
+    "businessName": "Ivanova Group",
+    "phoneNo": "+971504321098",
+    "email": "elena.ivanova@example.com",
+    "nationality": "Russian",
+    "country": "United Arab Emirates",
+    "password": "strongPassword678"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Kim",
+    "businessName": "Kim Corporation",
+    "phoneNo": "+971503210987",
+    "email": "david.kim@example.com",
+    "nationality": "South Korean",
+    "country": "United Arab Emirates",
+    "password": "securePassword901"
+  },
+  {
+    "firstName": "Aisha",
+    "lastName": "Nasser",
+    "businessName": "Nasser Enterprises",
+    "phoneNo": "+971502109876",
+    "email": "aisha.nasser@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "pass234567"
+  },
+  {
+    "firstName": "Eva",
+    "lastName": "Lopez",
+    "businessName": "Lopez Solutions",
+    "phoneNo": "+971501098765",
+    "email": "eva.lopez@example.com",
+    "nationality": "Spanish",
+    "country": "United Arab Emirates",
+    "password": "strongPass789"
+  },
+  {
+    "firstName": "Sami",
+    "lastName": "Abdullah",
+    "businessName": "Abdullah Corporation",
+    "phoneNo": "+971509876543",
+    "email": "sami.abdullah@example.com",
+    "nationality": "Saudi Arabian",
+    "country": "United Arab Emirates",
+    "password": "password345678"
+  },
+  {
+    "firstName": "Aya",
+    "lastName": "Sakamoto",
+    "businessName": "Sakamoto Trading",
+    "phoneNo": "+971508765432",
+    "email": "aya.sakamoto@example.com",
+    "nationality": "Japanese",
+    "country": "United Arab Emirates",
+    "password": "securePassword90123"
+  },
+  {
+    "firstName": "Faisal",
+    "lastName": "Ali",
+    "businessName": "Ali Solutions",
+    "phoneNo": "+971507654321",
+    "email": "faisal.ali@example.com",
+    "nationality": "Emirati",
+    "country": "United Arab Emirates",
+    "password": "pass456789"
+  }
+]

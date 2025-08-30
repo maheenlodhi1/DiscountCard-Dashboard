@@ -1,0 +1,24 @@
+{
+  "states": [
+    {
+      "value": "london",
+      "label": "London"
+    },
+    {
+      "value": "birmingham",
+      "label": "Birmingham"
+    },
+    {
+      "value": "manchester",
+      "label": "Manchester"
+    },
+    {
+      "value": "leeds",
+      "label": "Leeds"
+    },
+    {
+      "value": "leicester",
+      "label": "Leicester"
+    }
+  ]
+}
