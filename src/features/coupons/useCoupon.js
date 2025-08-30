@@ -2,7 +2,7 @@ import { useState } from "react";
 import {
   createCoupon,
   deleteCoupon,
-  fetchCoupon,
+  fetchCoupons,
   updateCoupon,
 } from "./couponApi";
 
@@ -16,7 +16,7 @@ export default function useCoupon() {
     setIsLoading(true);
     setError("");
     try {
-      const res = await fetchCoupon(id);
+      const res = await fetchCoupons(id);
 
       setIsLoading(false);
       setCoupon(res.data);
