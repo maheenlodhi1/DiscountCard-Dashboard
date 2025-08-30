@@ -1,5 +1,7 @@
 import crypto from "crypto";
-const encrypKey = Buffer.from(process.env.NEXT_PUBLIC_ENCRYPTION_KEY, "hex");
+import { ENCRYPTION_KEY } from "@/services/api/baseApi";
+const key = ENCRYPTION_KEY;
+const encrypKey = Buffer.from(key, "hex");
 const ivLength = 16;
 
 export function encrypt(text) {

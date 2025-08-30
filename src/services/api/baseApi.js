@@ -11,6 +11,10 @@ export const customHeaders = {
 };
 export const baseUrl = `${baseDomain}`;
 
+export const GOOGLE_MAPS_API_KEY = "AIzaSyAGtTzCFC5I7fdjV2E3QJTUMggoKSTYOv0";
+export const ENCRYPTION_KEY =
+  "6acab038d275fb7459435fbf6ab0ce3feff4eeb723260b2c21280b4ae651e0f6";
+
 const instance = axios.create({
   baseUrl,
   headers: customHeaders,

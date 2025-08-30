@@ -1,7 +1,9 @@
 import { getData } from "@/services/api/generics";
 import { createAsyncThunk } from "@reduxjs/toolkit";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
+import { baseUrl } from "@/services/api/baseApi";
+
+const BASE_URL = baseUrl;
 
 export const fetchGraphData = createAsyncThunk("graph/fetchAll", async () => {
   try {

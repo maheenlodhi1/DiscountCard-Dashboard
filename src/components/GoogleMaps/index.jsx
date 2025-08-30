@@ -1,3 +1,4 @@
+import { GOOGLE_MAPS_API_KEY } from "@/services/api/baseApi";
 import {
   APIProvider,
   AdvancedMarker,
@@ -7,7 +8,7 @@ import {
 } from "@vis.gl/react-google-maps";
 import { useCallback, useEffect, useRef, useState } from "react";
 
-const API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
+const API_KEY = GOOGLE_MAPS_API_KEY;
 // London
 const DEFAULT_CENTER = { lat: 51.507351, lng: -0.127758 };
 

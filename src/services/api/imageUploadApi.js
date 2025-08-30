@@ -1,9 +1,12 @@
 import { postData } from "./generics";
-const baseUrl = process.env.NEXT_PUBLIC_BACKEND_URL;
+import { baseUrl } from "@/services/api/baseApi";
+
+const BASE_URL = baseUrl;
+
 export const uploadImage = (data) => {
   return new Promise(async (resolve, reject) => {
     try {
-      const files = await postData(`${baseUrl}/upload/images`, data, {
+      const files = await postData(`${BASE_URL}/upload/images`, data, {
         headers: {
           "Content-Type": "multipart/form-data",
         },

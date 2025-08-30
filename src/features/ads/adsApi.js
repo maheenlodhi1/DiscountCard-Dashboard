@@ -6,8 +6,9 @@ import {
   getOne,
 } from "@/services/api/generics";
 import { createAsyncThunk } from "@reduxjs/toolkit";
+import { baseUrl } from "@/services/api/baseApi";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
+const BASE_URL = baseUrl;
 
 export const fetchAllAds = createAsyncThunk(
   "ads/fetchAll",
