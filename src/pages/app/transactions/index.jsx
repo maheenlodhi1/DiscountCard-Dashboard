@@ -23,7 +23,8 @@ import { fetchTransactions } from "@/features/transactions/transactionApi";
 
 const headers = [
   { label: "Transaction ID", value: "" },
-  { label: "Customer ID", value: "" },
+ { label: "Customer", value: "" },
+  { label: "Partner", value: "" },
   { label: "Promotion", value: "" },
   { label: "Total Bill", value: "totalBill" },
   { label: "Discount Price", value: "discountPrice" },
@@ -136,8 +137,11 @@ export default function Transactions() {
                 <td className="whitespace-nowrap p-3 text-sm">
                   {transaction.id?.slice(-4)}
                 </td>
+              <td className="whitespace-nowrap p-3 text-sm">
+                  {transaction.customer?.firstName}
+                </td>
                 <td className="whitespace-nowrap p-3 text-sm">
-                  {transaction.customer?.slice(-4)}
+                  {transaction.partner?.businessName}
                 </td>
                 <td className="whitespace-nowrap p-3 text-sm">
                   {transaction.promotionId?.locale.en.title}
